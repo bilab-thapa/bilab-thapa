@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="https://media.giphy.com/media/xUPGcJm0YKly6HCCrK/giphy.gif" width="300" height="300">
+
 # Bilab
 
 I am an energetic person with great communication skills and a desire to learn something new every day.
