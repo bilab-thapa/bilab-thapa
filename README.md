@@ -23,20 +23,12 @@ I am an energetic person with great communication skills and a desire to learn s
 ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
 - JavaScript
 
-## Projects
-
-- Project 1: [Project Name](Link to repository) - A brief description of the project
-- Project 2: [Project Name](Link to repository) - A brief description of the project
-
 ## Contact
 
 - Email: thapabilab9@gmail.com
 - LinkedIn: [Bilab Thapa](https://www.linkedin.com/in/bilab-thapa/)
 - Twitter: [@thapa_bilab](https://twitter.com/thapa_bilab)
 
-## Other information
-
-- Include any other information that you think is relevant, such as your location, education, or work experience.
 
 <!---
 # - 🔭 I’m currently working on ...
